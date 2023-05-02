@@ -1,0 +1,9 @@
+# ninja log v5
+3	3598	7046418683803220	project_autogen/timestamp	41ee787f85b7cca1
+3	3598	7046418683803220	project_autogen/mocs_compilation.cpp	41ee787f85b7cca1
+3	3598	7046418683803220	C:/Users/DELL/Desktop/ELEVATOR/build-project-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/project_autogen/timestamp	41ee787f85b7cca1
+3	3598	7046418683803220	C:/Users/DELL/Desktop/ELEVATOR/build-project-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/project_autogen/mocs_compilation.cpp	41ee787f85b7cca1
+3601	7690	7046418729577699	CMakeFiles/project.dir/elevator.cpp.obj	b0ca0e61de5ea2e4
+3599	7773	7046418730351287	CMakeFiles/project.dir/project_autogen/mocs_compilation.cpp.obj	1307a9e5a64308b8
+3603	13206	7046418784670791	CMakeFiles/project.dir/main.cpp.obj	dd5913eeee2c6733
+13211	13627	7046418788840579	project.exe	4f173ec2f0d79d27

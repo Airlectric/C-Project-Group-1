@@ -1,0 +1,9 @@
+C:/Users/DELL/Desktop/ELEVATOR/build-project-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/project.dir
+C:/Users/DELL/Desktop/ELEVATOR/build-project-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Desktop/ELEVATOR/build-project-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/DELL/Desktop/ELEVATOR/build-project-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/DELL/Desktop/ELEVATOR/build-project-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/DELL/Desktop/ELEVATOR/build-project-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/DELL/Desktop/ELEVATOR/build-project-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/DELL/Desktop/ELEVATOR/build-project-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/project_autogen_timestamp_deps.dir
+C:/Users/DELL/Desktop/ELEVATOR/build-project-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/project_autogen.dir
